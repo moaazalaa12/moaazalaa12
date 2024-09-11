@@ -9,7 +9,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 
-- 🏢 I'm a Software Engineer ,Junior App Developer
+- 🏢 I'm a Software Engineer
 - 👨‍💻 As a Engineering Student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Java, C++ or anything related to web development.
 
