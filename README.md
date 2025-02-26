@@ -10,8 +10,8 @@
 
 
 - 🏢 I'm a Software Engineer
-- 👨‍💻 As a Engineering Student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Java, C++ or anything related to web development.
+- 👨‍💻 As an Engineering Student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Java, C++, databases or anything related to web development.
 
 
 
